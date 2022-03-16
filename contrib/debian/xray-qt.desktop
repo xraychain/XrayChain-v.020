@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.17.6
+Name=RayChain
+Comment=Connect to the Xray P2P Network
+Exec=xray-qt %u
+Terminal=false
+Type=Application
+Icon=xray128
+MimeType=x-scheme-handler/xray;
+Categories=Network;
+StartupWMClass=Xray-qt
+Name[en_US]=xray-qt

@@ -1,0 +1,6 @@
+usr/local/bin/xray-qt usr/bin
+share/pixmaps/xray32.xpm usr/share/pixmaps
+share/pixmaps/xray16.xpm usr/share/pixmaps
+share/pixmaps/xray128.png usr/share/pixmaps
+debian/xray-qt.desktop usr/share/applications
+debian/xray-qt.protocol usr/share/kde4/services/
