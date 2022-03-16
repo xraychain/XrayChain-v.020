@@ -56,9 +56,9 @@ static constexpr uint64_t GB_BYTES{1000000000};
 static constexpr int DEFAULT_PRUNE_TARGET_GB{2};
 
 /* Mainnet xray explorer uri */
-#define XRAY_INFO_MAINNET "<a href='https://xray.info/%1/%2'>%2</a>"
+#define XRAY_INFO_MAINNET "<a href='https://raychainscan.com/%1/%2'>%2</a>"
 
 /* Testnet xray explorer uri */
-#define XRAY_INFO_TESTNET "<a href='https://testnet.xray.info/%1/%2'>%2</a>"
+#define XRAY_INFO_TESTNET "<a href='https://testnet.raychainscan.com/%1/%2'>%2</a>"
 
 #endif // BITCOIN_QT_GUICONSTANTS_H
